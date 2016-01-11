@@ -1,0 +1,12 @@
+{
+    "name": "rofil/common",
+    "description": "The common components use in web application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rofilde Hasudungan",
+            "email": "rofilde.hasudungan@gmail.com"
+        }
+    ],
+    "require": {}
+}
