@@ -8,4 +8,6 @@ interface PeopleInterface
     public function listGenders();
     public function relagions($relagion);
     public function listRelagions();
+    public function merriage($merriage);
+    public function ListMerriage();
 }
